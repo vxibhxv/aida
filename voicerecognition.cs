@@ -43,7 +43,7 @@ namespace VoiceRecognition
 
             s.SelectVoiceByHints(VoiceGender.Female);
 
-            s.Speak("Hello!,My name is Friday");
+            s.Speak("Hello!,My name is aida");
 
             InitializeComponent();
 
